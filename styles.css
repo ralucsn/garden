@@ -1,8 +1,10 @@
 body
 {
     margin: 0.5;
-    background: palegreen;
+    background: rgb(170, 244, 162);
     text-align: center;
-    text-decoration-color: darkred;
+    text-decoration-color: rgb(106, 6, 6);
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
